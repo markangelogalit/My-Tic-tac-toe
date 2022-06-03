@@ -86,5 +86,20 @@ namespace My_Tic_tac_toe
         {
 
         }
+
+        private void button8_Click_1(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button6_Click_1(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button5_Click_2(object sender, EventArgs e)
+        {
+
+        }
     }
 }
